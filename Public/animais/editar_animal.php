@@ -11,7 +11,7 @@ $animal =mysqli_fetch_assoc($resultado);
 ?>
 <!DOCTYPE html>
 <html lang="en">
-
+s
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
